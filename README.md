@@ -60,7 +60,7 @@ Here's the breakdown of the top data analyst jobs:
 
 - **Job Title Variety:** There's a high diversity in job titles, from Data Analyst to Director of Analytics, reflecting varied roles and specializations within data analytics.
 
-![Top Paying Roles](assets\1_top_paying_roles.png)
+![Top Paying Roles](assets/1_top_paying_roles.png)
 
 *The Bar Graph shows the salary for the top 10 salaries for data analyst; GhatGPT generated this graph for me based on my SQL Query result.*
 
@@ -103,7 +103,7 @@ Here's the breakdown of the most demanded skills for the top 10 high paying data
 - **Python** follows closely with a count of 7.
 - Finally, **Tableau** is also highly sought after, with a count of 6. Other skills such as **R**, **Snowflake**, **Pandas**, and **Excel** show varying degress as per the demand.
 
-![Top Paying Job Skills](assets\2_top_paying_job_skills.png)
+![Top Paying Job Skills](assets/2_top_paying_job_skills.png)
 
 *The Bar graph shows the count of skills for the top 10 paying jobs for data analyst; ChatGPT generated this graph for my SQL query.
 
